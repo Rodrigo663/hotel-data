@@ -15,13 +15,13 @@ But first thing needs to be done is to clean the file hotel_booking_data.xlsx. Y
 
 After the cleanup you can run vizualization.ipynb to get the insights:
 
-###### General Costumers Statistics 
+## General Costumers Statistics 
 
 
 ![pie_chart](https://github.com/Rodrigo663/hotel-data/blob/main/figures/pie_chart.png)
 
 
-###### How Different Countries Choose Their Meals
+## How Different Countries Choose Their Meals
 
 
 ![count_plot](https://github.com/Rodrigo663/hotel-data/blob/main/figures/count_plot.png)
