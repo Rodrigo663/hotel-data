@@ -11,9 +11,9 @@ Before we clean the file [hotel_booking_data.xlsx](https://github.com/Rodrigo663
 
 ![q1](https://github.com/Rodrigo663/hotel-data/blob/main/assets/change2.png)
 
-## The Vizualizations
+## The Visualizations
 
-Now we can run [vizualization.ipynb](https://github.com/Rodrigo663/hotel-data/blob/main/vizualizations.ipynb) to get the insights.
+Now we can run [visualizations.ipynb](https://github.com/Rodrigo663/hotel-data/blob/main/visualizations.ipynb) to get the insights.
 
 ## General Costumers Statistics 
 
