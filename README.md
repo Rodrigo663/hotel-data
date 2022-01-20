@@ -5,11 +5,11 @@ But first thing needs to be done is to clean the file hotel_booking_data.xlsx. Y
 
 ###### Replace the missing data in columns 'company' and 'agent' with 'Nonexistent'
 
-![q1](https://github.com/Rodrigo663/country-economic-outlook/blob/main/assets/q1.png)
+![q1](https://github.com/Rodrigo663/hotel-data/blob/main/assets/change.png)
 
 ###### Dropping the rows where the value for column 'country' is missing
 
-![q1](https://github.com/Rodrigo663/country-economic-outlook/blob/main/assets/q1.png)
+![q1](https://github.com/Rodrigo663/hotel-data/blob/main/assets/change2.png)
 
 ## The Vizualizations
 
