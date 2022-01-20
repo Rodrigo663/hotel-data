@@ -24,9 +24,6 @@ After the cleanup you can run vizualization.ipynb to get the insights:
 ## How Different Countries Choose Their Meals
 
 
-![count_plot](https://github.com/Rodrigo663/hotel-data/blob/main/figures/count_plot.png)
-
-
 **THE MEALS**
 
 - BB – Bed & Breakfast;
@@ -34,6 +31,8 @@ After the cleanup you can run vizualization.ipynb to get the insights:
 - SC – no meal package;
 - FB – Full board (breakfast, lunch and dinner);
 
+
+![count_plot](https://github.com/Rodrigo663/hotel-data/blob/main/figures/count_plot.png)
 
 
 ## Range of Values for ADR by country
